@@ -1,79 +1,85 @@
-<br clear="both">
-
-<h2 align="center">Hi 👋! My name is Nemi and I'm a Software Developer</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/12/e8/a6/12e8a6a547e317524121f7a5d6084036.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:02569B,100:00D9FF&height=190&section=header&text=Nemi%20Kardani&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Flutter%20%7C%20Dart%20%7C%20Software%20Developer&descAlignY=56&descSize=19" alt="Nemi Kardani — Flutter, Dart, and software developer" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nemi+Kardani+%F0%9F%91%8B;Flutter+%26+Dart+developer;Building+scalable+mobile+and+web+software;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Animated introduction" />
+</a>
+
+<p>
+  <a href="https://github.com/NemiKardani"><img src="https://img.shields.io/badge/GitHub-NemiKardani-181717?style=for-the-badge&logo=github" alt="Nemi Kardani on GitHub" /></a>
+  <a href="https://nemikardani-portfulio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Nemi Kardani portfolio" /></a>
+  <a href="mailto:nemikardani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nemi Kardani" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=NemiKardani&label=Profile%20views&color=00D9FF&style=flat-square" alt="Profile views" />
+
 </div>
 
-###
+## About me
 
-<br clear="both">
+I’m Nemi Kardani, a software developer from Ahmedabad, Gujarat, India. I build Flutter and Dart applications, with an interest in dependable mobile experiences, VoIP/audio routing, API integrations, and web tooling.
+
+- 🔭 Building Flutter packages and application tooling
+- 🌱 Exploring scalable software architecture and backend integrations
+- 💬 Ask me about Flutter, Dart, mobile development, and API integration
+- 🌐 Portfolio: [nemikardani-portfulio.netlify.app](https://nemikardani-portfulio.netlify.app/)
+
+## Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,html,css,js&theme=dark" alt="Flutter, Dart, Firebase, Android Studio, Git, GitHub, HTML, CSS, and JavaScript" />
+</p>
+
+## GitHub analytics
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NemiKardani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=NemiKardani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="165" alt="GitHub contribution streak" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NemiKardani&theme=tokyonight" alt="GitHub contribution summary" />
+</div>
 
-<br clear="both">
+## Featured projects
 
 <div align="center">
-  <a href="https://www.youtube.com/@codeX6867" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://github.com/NemiKardani/voip_audio_route_manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=voip_audio_route_manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="voip_audio_route_manager repository" />
   </a>
-  <a href="https://www.instagram.com/nemikardani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://github.com/NemiKardani/data_handler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=data_handler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="data_handler repository" />
   </a>
-  <a href="nemikardani6867@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <br />
+  <a href="https://github.com/NemiKardani/nemi.portfolio.web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=nemi.portfolio.web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="nemi.portfolio.web repository" />
   </a>
-  <a href="https://www.linkedin.com/in/nemi-kardani-33112b220/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@nemikardani23" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21535557/nemi-kardani" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <a href="https://github.com/NemiKardani/in_app_logview">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=in_app_logview&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="in_app_logview repository" />
   </a>
 </div>
 
-###
-
-<br clear="both">
+## Contribution animations
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NemiKardani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NemiKardani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NemiKardani/NemiKardani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NemiKardani/NemiKardani/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake travelling across Nemi Kardani's contribution graph" src="https://raw.githubusercontent.com/NemiKardani/NemiKardani/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NemiKardani/NemiKardani/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution chart" />
+</div>
 
-<img align="right" src="https://profile-counter.glitch.me/NemiKardani/count.svg?"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NemiKardani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub profile trophies" />
+</div>
 
-###
+---
+
+<div align="center">
+  <i>Thanks for visiting — let’s build something useful.</i>
+</div>
