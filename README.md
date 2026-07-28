@@ -28,7 +28,7 @@ I’m Nemi Kardani, a software developer from Ahmedabad, Gujarat, India. I build
 ## Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,git,github,html,css,js&theme=dark" alt="Flutter, Dart, Firebase, Android Studio, Git, GitHub, HTML, CSS, and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,c,cpp,java,swift,gcp,ruby,gradle,firebase,androidstudio,git,github,html,css,js&theme=dark" alt="Flutter, Dart, Python, C, C++, Java, Swift, GCP, Ruby, Gradle, Firebase, Android Studio, Git, GitHub, HTML, CSS, and JavaScript" />
 </p>
 
 ## GitHub analytics
