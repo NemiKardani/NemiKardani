@@ -34,7 +34,7 @@ I’m Nemi Kardani, a software developer from Ahmedabad, Gujarat, India. I build
 ## GitHub analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NemiKardani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NemiKardani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics" />
   <img src="https://streak-stats.demolab.com?user=NemiKardani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="165" alt="GitHub contribution streak" />
 </div>
 
@@ -46,17 +46,17 @@ I’m Nemi Kardani, a software developer from Ahmedabad, Gujarat, India. I build
 
 <div align="center">
   <a href="https://github.com/NemiKardani/voip_audio_route_manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=voip_audio_route_manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="voip_audio_route_manager repository" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=NemiKardani&repo=voip_audio_route_manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="voip_audio_route_manager repository" />
   </a>
   <a href="https://github.com/NemiKardani/data_handler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=data_handler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="data_handler repository" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=NemiKardani&repo=data_handler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="data_handler repository" />
   </a>
   <br />
   <a href="https://github.com/NemiKardani/nemi.portfolio.web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=nemi.portfolio.web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="nemi.portfolio.web repository" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=NemiKardani&repo=nemi.portfolio.web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="nemi.portfolio.web repository" />
   </a>
   <a href="https://github.com/NemiKardani/in_app_logview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NemiKardani&repo=in_app_logview&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="in_app_logview repository" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin?username=NemiKardani&repo=in_app_logview&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="in_app_logview repository" />
   </a>
 </div>
 
