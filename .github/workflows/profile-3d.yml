@@ -17,11 +17,10 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: NemiKardani
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit generated charts
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add profile-3d-contrib
-          git diff --cached --quiet || git commit -m "chore: update 3D contribution chart"
-          git push
+          git diff --cached --quiet || (git commit -m "chore: update 3D contribution chart" && git pull --rebase && git push)

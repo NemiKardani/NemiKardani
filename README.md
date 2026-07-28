@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:02569B,100:00D9FF&height=190&section=header&text=Nemi%20Kardani&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Flutter%20%7C%20Dart%20%7C%20Software%20Developer&descAlignY=56&descSize=19" alt="Nemi Kardani — Flutter, Dart, and software developer" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nemi+Kardani+%F0%9F%91%8B;Flutter+%26+Dart+developer;Building+scalable+mobile+and+web+software;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Animated introduction" />
 </a>
 
